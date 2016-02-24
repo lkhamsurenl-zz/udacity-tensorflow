@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Assignments for Udacity Deep Learning class with TensorFlow
 ===========================================================
 
@@ -35,3 +36,6 @@ Pushing a Google Cloud release
     docker tag $USER/assignments b.gcr.io/tensorflow-udacity/assignments:$V
     docker tag $USER/assignments b.gcr.io/tensorflow-udacity/assignments:latest
     gcloud docker push b.gcr.io/tensorflow-udacity/assignments
+=======
+# udacity-tensorflow
+>>>>>>> eb06f0d019cdef9ae809bd8e6ab7b7b1098065df
